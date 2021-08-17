@@ -22,5 +22,5 @@ mongoose.connect("mongodb+srv://madhu:test123@cluster0.vfbif.mongodb.net/test", 
 app.use(bodyParser.json());
 app.use("/api/company", companyRoutes);
 app.listen(8000, () => {
-    console.log("Server had successfully started Sankar!");
+    console.log("Hi Sankar, the Server started successfully!");
 });
