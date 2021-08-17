@@ -16,7 +16,7 @@
       </li>
       <li>
         <a href="resume.pdf" download
-          >Resume</a
+          >MyResume</a
         >
       </li>
     </ul>
